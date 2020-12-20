@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.glibc/
+.gdb_history
+.DS_Store
