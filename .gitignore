@@ -131,3 +131,4 @@ dmypy.json
 .glibc/
 .gdb_history
 .DS_Store
+core
